@@ -2,7 +2,9 @@
 Mengumpulkan Tugas Akhir E-Commerce Healty Pet
 NAMA APLIKASI : HEALTY PET
 DEMO WEBSITE : https://healtypet.my.id 
-
+Link Login Admin : https://healtypet.my.id/admin
+Link Login Klinik : https://healtypet.my.id/klinik
+Link Login Dokter : https://healtypet.my.id/dokter
 Modul-modul yang dikerjakan :
 
 Nico Fernades - A22.2019.02734 
