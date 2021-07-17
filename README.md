@@ -7,36 +7,36 @@ Modul-modul yang dikerjakan :
 
 Nico Fernades - A22.2019.02734 
 1. Halaman Awal
-    a. Halaman Utama
-    b. Riwayat
-    c. Login
-    d. Artikel / Berita
-    e. Halaman Janji Dokter dan Chat
-    f. Halaman Janji RS
-    g. Halaman Pemesanan Produk
+    1. Halaman Utama
+    2. Riwayat
+    3. Login
+    4. Artikel / Berita
+    5. Halaman Janji Dokter dan Chat
+    6. Halaman Janji RS
+    7. Halaman Pemesanan Produk
     
 3. Halaman User
-   a. Halaman Profile
-5. Halaman Admin
-   a. Halaman Utama Admin
-   b. Halaman Transaksi
-   c. Halaman Verifikasi Dokter dan Klinik
-   d. Halaman Verfikasi Payout Saldo
-   e. Halaman kelola iklan dan berita
+   1. Halaman Profile
+   2. Halaman Admin
+   3. Halaman Utama Admin
+   4. Halaman Transaksi
+   5. Halaman Verifikasi Dokter dan Klinik
+   6. Halaman Verfikasi Payout Saldo
+   7. Halaman kelola iklan dan berita
    
 Ferisa Salsabila - A22.2019.02739
 1. Halaman Dokter
-   a. Halaman Utama Dokter
-   b. Halaman Login dan Daftar
-   c. Halaman Transaksi
-   d. Halaman Edit Profile
-   e. Halaman Pelayanan Chat
+   1. Halaman Utama Dokter
+   2. Halaman Login dan Daftar
+   3. Halaman Transaksi
+   4. Halaman Edit Profile
+   5. Halaman Pelayanan Chat
    
 3. Halaman Klinik
-   a. Halaman Utama Klinik
-   b. Halaman Login dan Daftar
-   c. Halaman Transaksi
-   d. Halaman Tambah Produk
-   e. Halaman Tambah Fasilitas
+   1. Halaman Utama Klinik
+   2. Halaman Login dan Daftar
+   3. Halaman Transaksi
+   4. Halaman Tambah Produk
+   5. Halaman Tambah Fasilitas
    
    
